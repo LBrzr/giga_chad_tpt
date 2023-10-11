@@ -2,11 +2,12 @@
 
 ## Project Overview
 
-# French Rap Lyrics Generation AI
-
 ## Project Overview
 
-The French Rap Lyrics Generation AI is a school project that combines Flutter for the frontend and Python for the backend. This project showcases a Recurrent Neural Network (RNN) text generation AI trained on French rap songs lyrics, featuring renowned rappers. The AI has been trained on a diverse dataset of lyrics scraped from the internet, capturing the unique styles and expressions of these artists. The model has been built using TensorFlow, and users can interact with the AI through the Flutter frontend to generate unique and creative French rap lyrics inspired by Nekfeu, Vald, and Alpha One.
+### French Rap Lyrics Generation AI
+
+GigaChad ToutPT AI is a school project that combines Flutter for the frontend and Python for the backend.
+This project showcases a Recurrent Neural Network (RNN) text generation AI trained on French rap songs lyrics, featuring renowned rappers. The AI has been trained on a diverse dataset of lyrics scraped from the internet, capturing the unique styles and expressions of these artists. The model has been built using TensorFlow, and users can interact with the AI through the Flutter frontend to generate unique and creative French rap lyrics inspired by Nekfeu, Vald, and Alpha One.
 
 **PS: Still under developement...**
 
