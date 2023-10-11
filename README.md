@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-## Project Overview
-
 ### French Rap Lyrics Generation AI
 
 GigaChad ToutPT AI is a school project that combines Flutter for the frontend and Python for the backend.
