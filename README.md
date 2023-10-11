@@ -80,9 +80,9 @@ The French Rap Lyrics Generation AI is a school project that combines Flutter fo
 
 ## Project Structure
 
-- **flutter-app:** Contains the Flutter frontend code.
-- **python-backend:** Houses the Python backend code for managing the TensorFlow-based text generation AI and socket connection with the front for word-by-word response.
-
+- **front:** Contains the Flutter frontend code.
+- **api:** Houses the Python backend code for managing the TensorFlow-based text generation AI and socket connection with the front for word-by-word response.
+- **lyrics:** Holds the dataset of French rap songs lyrics used for training the AI model.
 
 ## Feedback and Contributions
 
